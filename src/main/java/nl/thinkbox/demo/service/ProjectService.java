@@ -1,7 +1,5 @@
 package nl.thinkbox.demo.service;
 import nl.thinkbox.demo.model.Project;
-
-import java.security.Principal;
 import java.util.List;
 
 public interface ProjectService {
